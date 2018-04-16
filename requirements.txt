@@ -45,3 +45,4 @@ pandas==0.21.0
 scikit_learn==0.19.1
 Flask==0.12.2
 pyreadline==2.1
+matplotlib==2.2.2
